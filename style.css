@@ -4,7 +4,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Poppins", sans-serif; /* Define a fonte padrão */
-    background-color: #f0f1fc; /* Cor de fundo da página */
+    background-color: #0a94bd;
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
